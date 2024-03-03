@@ -14,7 +14,7 @@ root.render(
   <TonConnectUIProvider 
   actionsConfiguration={{
     twaReturnUrl: 'https://t.me/BazzarBeloteBot'
-  }} manifestUrl="https://3a34-2a02-2a57-f7eb-0-c1b3-f690-9b01-78a.ngrok-free.app/tonconnect-manifest.json">
+  }} manifestUrl="https://bazzarbelote.github.io/belote/tonconnect-manifest.json">
     <React.StrictMode>
       <App />
     </React.StrictMode>
